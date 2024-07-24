@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning react and Next js
 - 💞️ I’m looking to collaborate on front end development 
-- 📫 How to reach me muhammadrehanali031@gmail.com
+- 📫 How to reach me webwithrehan@gmail.com
 
 <!---
 igrehanali/igrehanali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
