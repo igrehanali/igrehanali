@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on: Next.js projects, including a shipping company website and a POS system.
+👯 I’m looking to collaborate on: Web development projects involving React, Next.js, and Firebase.
+🤝 I’m looking for help with: Optimizing animations, video playback, and advanced image editing APIs.
+🌱 I’m currently learning: Image editing features like background removal, brightness adjustment, and more using JavaScript libraries.
+💬 Ask me about: React, Next.js, Tailwind CSS, Firebase, and responsive web design.
+⚡ Fun fact: I'm a React developer by day and a creative problem solver who loves experimenting with design and UI effects in my free time!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igrehanali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-rehan-ali-541277263) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22213770) 
