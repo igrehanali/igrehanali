@@ -1,6 +1,6 @@
 # 💫 About Me:<br>
 🔭 I’m currently working on: Next.js projects, including a shipping company website and a POS system.<br>
-👯 I’m looking to collaborate on: Web development projects involving React, Next.js, and Firebase.<br>]
+👯 I’m looking to collaborate on: Web development projects involving React, Next.js, and Firebase.<br>
 🌱 I’m currently learning: advance features of react and Next.js.<br>
 💬 Ask me about: React, Next.js, Tailwind CSS, Firebase, and responsive web design.<br>
 ⚡ Fun fact: I'm a React developer by day and a creative problem solver who loves experimenting with design and UI effects in my free time!<br>
